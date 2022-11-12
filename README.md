@@ -1,7 +1,7 @@
 # triviamurderparty2-cheatsheet
  Trivia Murder Party 2 Cheatsheet
 
-Had some time to kill and found the questions and answers from the Jackbox Party Pack game Trivia Murder Part 2.
+Had some time to kill and found the questions and answers from the Jackbox Party Pack game Trivia Murder Party 2.
 
 The said file was in a different file format but the text formatting is very similar to JSON. It had a lot of unnecessary characters so I had to use Python to read it's contents, clean, and turn it into a proper JSON text formating.
 
